@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen/AB Schleifen.iml" filepath="$PROJECT_DIR$/AB Schleifen/AB Schleifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A1a/AB Schleifen A1a.iml" filepath="$PROJECT_DIR$/AB Schleifen A1a/AB Schleifen A1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A1b/AB Schleifen A1b.iml" filepath="$PROJECT_DIR$/AB Schleifen A1b/AB Schleifen A1b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A1c/AB Schleifen A1c.iml" filepath="$PROJECT_DIR$/AB Schleifen A1c/AB Schleifen A1c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A1c/AB Schleifen A1cc.iml" filepath="$PROJECT_DIR$/AB Schleifen A1c/AB Schleifen A1cc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A2./AB Schleifen A2.iml" filepath="$PROJECT_DIR$/AB Schleifen A2./AB Schleifen A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A3/AB Schleifen A3.iml" filepath="$PROJECT_DIR$/AB Schleifen A3/AB Schleifen A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB Schleifen A4./AB Schleifen A4.iml" filepath="$PROJECT_DIR$/AB Schleifen A4./AB Schleifen A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AB-Schleifen A1/AB-Schleifen A1.iml" filepath="$PROJECT_DIR$/AB-Schleifen A1/AB-Schleifen A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe 2 Kapitalberechnung/Aufgabe 2 Kapitalberechnung.iml" filepath="$PROJECT_DIR$/Aufgabe 2 Kapitalberechnung/Aufgabe 2 Kapitalberechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe 3 einfache Berechnungen/Aufgabe 3 einfache Berechnungen.iml" filepath="$PROJECT_DIR$/Aufgabe 3 einfache Berechnungen/Aufgabe 3 einfache Berechnungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe 4 einfache Berechnungen/Aufgabe 4 einfache Berechnungen.iml" filepath="$PROJECT_DIR$/Aufgabe 4 einfache Berechnungen/Aufgabe 4 einfache Berechnungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beispielaufgabe A1/Beispielaufgabe A1.iml" filepath="$PROJECT_DIR$/Beispielaufgabe A1/Beispielaufgabe A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beispielaufgabe A1/Beispielaufgabe A2/Beispielaufgabe A2.iml" filepath="$PROJECT_DIR$/Beispielaufgabe A1/Beispielaufgabe A2/Beispielaufgabe A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beispielaufgabe A3/Beispielaufgabe A3.iml" filepath="$PROJECT_DIR$/Beispielaufgabe A3/Beispielaufgabe A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Einfache AB Berechnung/Einfache AB Berechnung.iml" filepath="$PROJECT_DIR$/Einfache AB Berechnung/Einfache AB Berechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methoden A1a/Methoden A1a.iml" filepath="$PROJECT_DIR$/Methoden A1a/Methoden A1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methoden A1b/Methoden A1b.iml" filepath="$PROJECT_DIR$/Methoden A1b/Methoden A1b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methoden A1c/Methoden A1c.iml" filepath="$PROJECT_DIR$/Methoden A1c/Methoden A1c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methoden A2 fibonacci/Methoden A2 fibonacci.iml" filepath="$PROJECT_DIR$/Methoden A2 fibonacci/Methoden A2 fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beispielaufgabe A3/Methoden A2c/Methoden A2c.iml" filepath="$PROJECT_DIR$/Beispielaufgabe A3/Methoden A2c/Methoden A2c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hanoi/hanoi.iml" filepath="$PROJECT_DIR$/hanoi/hanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+    </modules>
+  </component>
+</project>
